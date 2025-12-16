@@ -138,6 +138,7 @@ Contributions are welcome! Here's how you can help:
 # Install development dependencies
 pip install -r requirements-dev.txt
 ---
+```
 
 ⭐ **Star this repo** if you found it useful!
 
