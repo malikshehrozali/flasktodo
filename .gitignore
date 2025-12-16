@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+env/
+venv/
+
+# Byte-code files
+*.pyc
+__pycache__/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Flask-specific
+instance/  # Contains local configuration and databases (e.g. SQLite DBs)
+
+# Environment variables
+.env
+.flaskenv
+
+# Miscellaneous
+tmp/
+logs/
+*.log
+
+Pipfile
+Pipfile.lock
+*.egg-info/
